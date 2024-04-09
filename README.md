@@ -1,2 +1,2 @@
 # Spotify-WebPlayer
-This Project is Spotify-WebPlayer
+This Project is Spotify-WebPlayer.
